@@ -1,0 +1,17 @@
+Običan korisnik
+Marko
+Horvat
+mhorvat
+marko123
+
+Običan korisnik
+Ana
+Šarić
+asaric
+ana4321
+
+Administrator
+Josip
+Ivančić
+jivancic
+josip456

@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #070238;
+}
+body {
+    background-color: white;
+}
+.naslov{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    background-color: #070238;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.naslov h1{
+    font-weight: bold;
+}
+.naslov img{
+    width: 20px;
+}
+.navigacija{
+    background-color: #070238;
+}.navigacija2{
+    width: 60%;
+}
+.navigacija a{
+    color: white;
+}
+.navigacija a:hover{
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+.velika {
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+img {
+    width: 100%;
+}
+.slika{
+    padding-left: 95px;
+}
+button {
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: #070238;
+}
+button a{
+    color: white;
+    background-color: #070238;
+}
+button a:hover{
+    text-decoration: none;
+    color: white;
+}
+.kat {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.ikona img{
+    width: 15px;
+    height: 100%;
+}
+.uvuceno{
+    padding: 0 15% 0 15%;
+}
+.uvuceno h5{
+    font-weight: bold;
+    color: blue;
+}
+.vijest img {
+    height: 202.5px;
+    aspect-ratio: auto;
+    object-fit: cover;
+}
+.vijest p{
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: blue;
+}
+p.datum{
+    font-weight: bold;
+    color: grey;
+}
+.footer{
+    background-color: #070238;
+}
